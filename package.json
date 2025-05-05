@@ -1,0 +1,14 @@
+{
+  "name": "TP-5---Primer-servidor-con-Node-y-Express",
+  "version": "1.0.0",
+  "description": "Primer servidor usando Node.js y Express para mostrar la hora y fecha.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
